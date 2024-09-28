@@ -1,0 +1,14 @@
+{
+  "file": "C:/Gowork/src/4learn-gin/inclusion/middleware/jwt-middle/jwt/gin-jwt-gorm/api/middleware/logrus.go:54",
+  "func": "main.main.LoggerMiddleware.func1",
+  "level": "warning",
+  "msg": "127.0.0.1 - syf [28/Sep/2024:10:37:45 +0800] \"GET /ping\" 404 0 \"\" \"PostmanRuntime/7.42.0\" (0ms)",
+  "time": "2024-09-28 10:37:45"
+}
+{
+  "file": "C:/Gowork/src/4learn-gin/inclusion/middleware/jwt-middle/jwt/gin-jwt-gorm/api/middleware/logrus.go:56",
+  "func": "main.main.LoggerMiddleware.func1",
+  "level": "info",
+  "msg": "127.0.0.1 - syf [28/Sep/2024:10:39:12 +0800] \"GET /api/test/ping\" 200 18 \"\" \"PostmanRuntime/7.42.0\" (0ms)",
+  "time": "2024-09-28 10:39:12"
+}
